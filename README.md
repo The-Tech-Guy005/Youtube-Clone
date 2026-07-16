@@ -10,6 +10,7 @@ A responsive YouTube homepage clone built using **HTML** and **CSS**. This proje
 
 
 
+
 ---
 
 ## 🚀 Features
@@ -86,7 +87,7 @@ Through this project, I gained hands-on experience with:
 Clone the repository
 
 ```bash
-git clone https://github.com/The-Tech_Guy005/Youtube-Clone.git
+git clone https://github.com/The-Tech-Guy005/Youtube-Clone.git
 ```
 
 Open the project
@@ -109,9 +110,9 @@ This project was built while following the excellent HTML & CSS course by **Supe
 
 If you'd like to connect or share feedback, feel free to reach out!
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: https://www.linkedin.com/in/hriday-arora-48a502386/
 
-GitHub: *(Add your GitHub profile)*
+GitHub: https://github.com/The-Tech-Guy005
 
 ---
 
