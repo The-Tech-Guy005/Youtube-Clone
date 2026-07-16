@@ -6,7 +6,7 @@ A responsive YouTube homepage clone built using **HTML** and **CSS**. This proje
 
 ## 📸 Preview
 
-![Project Preview](preview.png)
+![Project Preview](preview.PNG)
 
 
 
