@@ -69,16 +69,23 @@
 
 .search-button,
 .voice-search-button,
-.upload-icon-container {
+.upload-icon-container,
+.youtube-apps-icon-container,
+.notifications-icon-container,
+.current-user-picture-container {
   display: flex;
   justify-content: center;
   align-items: center;
   position: relative;
+  cursor: pointer;
 }
 
 .search-button .tooltip,
 .voice-search-button .tooltip,
-.upload-icon-container .tooltip {
+.upload-icon-container .tooltip,
+.youtube-apps-icon-container .tooltip,
+.notifications-icon-container .tooltip,
+.current-user-picture-container .tooltip {
   position: absolute;
   background-color: gray;
   color: white;
@@ -97,7 +104,10 @@
 
 .search-button:hover .tooltip,
 .voice-search-button:hover .tooltip,
-.upload-icon-container:hover .tooltip {
+.upload-icon-container:hover .tooltip,
+.youtube-apps-icon-container:hover .tooltip,
+.notifications-icon-container:hover .tooltip,
+.current-user-picture-container:hover .tooltip {
   opacity: 1;
 }
 
